@@ -4,7 +4,7 @@ Perkenalkan nama saya **Gunawan Rohadi**.<br>
  
 Saya seorang **Mahasiswa Universita Hamzanwadi**
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]()ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/)ku ya.
  
 ### Github Statistic
 <p align="left">
