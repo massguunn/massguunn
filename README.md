@@ -1,8 +1,4 @@
-# Halo semua! 
- 
-Perkenalkan nama saya **Gunawan Rohadi**.<br>
- 
-Saya seorang **Mahasiswa Universita Hamzanwadi**
+![Header](/img/header.png)
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/)ku ya.
 
