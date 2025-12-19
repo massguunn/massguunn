@@ -1,9 +1,10 @@
 ![Header](/img/header.png)
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/)ku ya.
+
+ ### My Media Sosial
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/) [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,nodejs,express,php)](https://skillicons.dev)
 
 
 ### Github Statistic
