@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/) [![My Skills](https://skillicons.dev/icons?i=wordpress)](https://www.linkedin.com/in/gunawan-rohadi-8594a9300/)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,nodejs,express,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,java,nodejs,express,php)](https://skillicons.dev)
 
 
 ### Github Statistic
